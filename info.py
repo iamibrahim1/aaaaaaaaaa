@@ -48,13 +48,13 @@ BOT_TOKEN = environ['BOT_TOKEN']
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', False))
-PICS = (environ.get('PICS', 'https://graph.org/file/a66a4ad88fd5944c45145.jpg')).split()
-NOR_IMG = environ.get('NOR_IMG', "https://graph.org/file/a66a4ad88fd5944c45145.jpg")
-SPELL_IMG = environ.get('SPELL_IMG',"https://graph.org/file/a66a4ad88fd5944c45145.jpg")
+PICS = (environ.get('PICS', 'https://telegra.ph/file/a17383deed3b4af1600d6.png')).split()
+NOR_IMG = environ.get('NOR_IMG', "https://telegra.ph/file/a17383deed3b4af1600d6.png")
+SPELL_IMG = environ.get('SPELL_IMG',"https://telegra.ph/file/a17383deed3b4af1600d6.png")
 
 # Welcome area
-MELCOW_IMG = environ.get('MELCOW_IMG',"https://graph.org/file/a66a4ad88fd5944c45145.jpg")
-MELCOW_VID = environ.get('MELCOW_VID',"https://graph.org/file/a66a4ad88fd5944c45145.jpg")
+MELCOW_IMG = environ.get('MELCOW_IMG',"https://telegra.ph/file/a17383deed3b4af1600d6.png")
+MELCOW_VID = environ.get('MELCOW_VID',"https://telegra.ph/file/a17383deed3b4af1600d6.png")
 
 
 
@@ -87,13 +87,13 @@ DOWNLOAD_LOCATION = environ.get("DOWNLOAD_LOCATION", "./DOWNLOADS/AudioBoT/")
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
 PORT = os.environ.get("PORT", "8080")
 MAX_BTN = int(environ.get('MAX_BTN', "8"))
-S_GROUP = environ.get('S_GROUP',"https://t.me/Happy_Hour_Friends")
-MAIN_CHANNEL = environ.get('MAIN_CHANNEL',"https://t.me/The_Happy_Hour_Hindi")
-FILE_FORWARD = environ.get('FILE_FORWARD',"https://t.me/+RvUCPPCaz9g5MGZl")
-MSG_ALRT = environ.get('MSG_ALRT', '👉 परेशान मत कर BSDK....🤬')
+S_GROUP = environ.get('S_GROUP',"https://t.me/Evilkhan1")
+MAIN_CHANNEL = environ.get('MAIN_CHANNEL',"https://t.me/Hunterking100")
+FILE_FORWARD = environ.get('FILE_FORWARD',"https://t.me/+JMBSaJ9K5R8zMzY0")
+MSG_ALRT = environ.get('MSG_ALRT', '👉 Don't disturb BSDK....🤬')
 FILE_CHANNEL = int(environ.get('FILE_CHANNEL', 0))
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', 0))
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'Happy_Hour_Friends')
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'Evilkhan1')
 AUTO_DELETE = is_enabled((environ.get('AUTO_DELETE', "True")), True)
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "True")), True)
 IMDB = is_enabled((environ.get('IMDB', "False")), False)
@@ -123,6 +123,6 @@ LOG_STR += f"Your current IMDB template is {IMDB_TEMPLATE}"
 
 #Verify Features
 VERIFY = bool(environ.get('VERIFY', False))
-HOW_TO_VERIFY = environ.get("HOW_TO_VERIFY", "https://t.me/HOW_TO_DOWNLOADDS/3")
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'urlshortx.com')
-SHORTLINK_API = environ.get('SHORTLINK_API', 'bd623f374b3619df1ba74033b235d872b9254d6d')
+HOW_TO_VERIFY = environ.get("HOW_TO_VERIFY", "")
+SHORTLINK_URL = environ.get('SHORTLINK_URL', '')
+SHORTLINK_API = environ.get('SHORTLINK_API', '')
