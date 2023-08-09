@@ -5,36 +5,36 @@ from plugins.helper_functions.cust_p_filters import f_onw_fliter
 
 
 RUN_STRINGS = (
-    "اوہ.. گستاخی... پہلے جیسی.... کوئی تبدیلی نہیں..... یہ وہ تھوک نہیں ہے جو کورس میں نہیں آتا...!!!"
-     "اللہ... ہر بچے کا... جذبہ..."
-     "مجھے نہیں آتا لکھنا جناب... مجھے پڑھنا نہیں آتا..."
-     "آج خاموش نہ رہو آج کے قلعے کے بعد..."
-     "یہ سوچ کر کہ یہ راکھ ہے، اگر تم نے اسے نہیں بنایا تو یہ جل جائے گی۔"
-     "سمجھیں کہ صرف ایک ہی زندگی ہے، نہ کوئی جنت ہے اور نہ کوئی جہنم، 'ایک زندگی'، وہ کہاں اور کیسے چاہتا ہے"۔"
-     "کیسا دھماکا خیز دھماکہ! ایسا خوفناک انکشاف!!"
-     "چلے جاؤ بیوقوف میری بیوی اور بیٹی کے گھر میں تم آج کا میرا منٹ نہیں دیکھو گے... نیچے مت جاؤ..."
-     "میں یہ کر سکتا ہوں کیا میں وہ کر سکتا ہوں"
-     "صرف اس لیے کہ کریم بسکٹ میں کریم ہوتی ہے، شیر کے بسکٹ میں شیر نہیں ہوتا۔ پانی دودھ، یار..."
-     "یہ ایسا ہی ہے جب پاٹا ڈر گیا اور پنتھلم میں گیا، یہ ایسا ہی ہے جیسے پنٹوم نے کہا کہ پنتھلم میں جاؤ۔"
-     "میرے رب.... آپ مجھے اچھا نہیں ہونے دیں گے۔"
-     "کار کا انجن مکمل طور پر ختم..."
-     "ابھی ختم نہیں ہوا!"
-     "کیا تمہارے باپ نے آدھی رات کے لیے پورٹا اور چکن بنایا ہے..."
-     "اوہ، جب تم پیار کرتے ہو، یہ محبت ہے، جب ہم محبت میں پڑتے ہیں، یہ تار ہے ...."
-     "خدا مجھے اکیلے بچا لے..."
-     "اس کی خاطر نشے میں ٹڈی اور گیلی بارش برباد کر دو..."
-     "کہاں رہی ہو اتنی دیر...!"
-     "آپ کو انگریزی زیادہ نہیں آتی، کیا آپ؟"
-     "تمام خواب چمکتے ستاروں کی طرح..."
-     "میرا پرانتھن تھاپا اسے راستہ بنا دو"
-     "کیا تم مجھے جہیز کی رقم دو گے علی؟"
-     "تم بہت تھک گئے ہو"
-     "میں آنکھوں میں آنسو لیے انتظار کر رہا تھا۔"
-     "چلو جا کر کہتے ہیں، لکڑی۔
-     خونی گرامواسی منہ بند کرو۔"
-     "چلو۔
-     پٹو تمھارے ساتھ مروں گا"،
-     "آپ کی وجہ سے، مقامی لوگوں اور وہ لوگ جنہوں نے گنولیا کو چھوڑ دیا، گنولیا کیوں شرمندہ ہیں اور اس طرح جی رہے ہیں، لارڈ چینگتالی وازہ۔"
+    "Oh.. insolence... same as before....there is no change.....it's not the spit that doesn't hold the course...!!!",
+     "God... every child's... passion...",
+     "I don't know how to write sir... I don't know how to read...",
+     "Don't be silent today...after today's fort...",
+     "Thinking that it is ash, it will burn if you don't build it.",
+     "Understand that there is only one life, there is no heaven and no hell, 'one life', where and how he wants it"",
+     "What a bombastic explosion! Such a terrific reveal!!",
+     "Go Away Stupid in the House of My Wife and Daughter You Will Not See My Minute of Today... Don't Get Down...",
+     "I Can Do That Do Can I That",
+     "Just because there is cream in a cream biscuit, there is no tiger in a tiger biscuit. Pani milk, man...",
+     "It's like when Pata got scared and went to the panthalam, it's like Pantom said to go to the panthalam.",
+     "My Lord.... You will not allow me to be good.",
+     "Car engine out completely...",
+     "It's not over now!",
+     "Has your father made porotta and chicken for midnight...",
+     "Oh, when you fall in love, it's love. When we fall in love, it's wire....",
+     "God save me alone...",
+     "Waste the toddy and wet rain drunk for her sake...",
+     "Where have you been all this time...!",
+     "You don't know much English, do you?",
+     "All the Dreams Like Twinkle Stars...",
+     "My Pranthan Thappa make him a way",
+     "Will you give me the dowry amount, Ali?",
+     "You're so tired"
+     "I was waiting with tears in my eyes.",
+     "Let's go and say, wood. Ya .\
+     Shut your mouth bloody gramavasis.",
+     "Go shit.\
+     patto die with you.",
+     "Because of you, the locals and those who left Gunollya, why are Gunollya living like this?.",
 )
 
 
