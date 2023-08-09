@@ -9,18 +9,18 @@ class script(object):
 # ⚠️ Please don't change our credits 𝚃𝙷𝙰𝙽𝙺𝚂 𝚃𝙾 & 𝙳𝙴𝚅 👇🏻
 
     ABOUT_TXT = """<b>✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ ᴍʏ ʟᴏᴠᴇ: <a href=https://t.me/Mister_Ash>ᴍʏ ᴏᴡɴᴇʀ🥰</a>
-✯ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ: <a href=https://t.me/The_Happy_Hour_Hindi>𝙏𝙝𝙚 𝙃𝙖𝙥𝙥𝙮 𝙃𝙤𝙪𝙧™</a>
-✯ ᴍʏ ᴏᴡɴᴇʀ: <a href=https://t.me/Mister_Ash>𝘼𝙨𝙝 𝙆𝙚𝙩𝙘𝙝𝙪𝙢</a>
+✯ ᴍʏ ʟᴏᴠᴇ: <a href=https://t.me/Lucifer6985>ᴍʏ ᴏᴡɴᴇʀ🥰</a>
+✯ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ: <a href=https://t.me/digitalhub04>Digitalhub™</a>
+✯ ᴍʏ ᴏᴡɴᴇʀ: <a href=https://t.me/Lucifer6985>Owner </a>
 ✯ ʟɪʙʀᴀʀʏ: ɴᴏ ɪᴅᴇᴀ
-✯ ʟᴀɴɢᴜᴀɢᴇ: ʜɪɴᴅɪ 🇮🇳
+✯ ʟᴀɴɢᴜᴀɢᴇ: Urdu/English 
 ✯ ᴅᴀᴛᴀʙᴀsᴇ: ꜰʀᴇᴇ ᴠᴀʟᴀ 🤫
 ✯ sᴇʀᴠᴇʀ: ꜰʀᴇᴇ ᴠᴀʟᴀ 🤫
 ✯ ʙᴜɪʟᴅ sᴛᴀᴛᴜs: ᴀᴄᴛɪᴠᴇ ✅</b>"""
 
     SOURCE_TXT = """<b>NOTE:</b>
 <b>- ɢᴀᴀɴᴅ ᴍᴀʀᴀᴏ ʙsᴅᴋ 😝
-- 𝚂𝙾𝚄𝚁𝙲𝙴 - <a href=https://t.me/Mister_Ash>ɴʜɪ ᴅᴜɴɢᴀ ʙsᴅᴋ 🤪</a>"""
+- 𝚂𝙾𝚄𝚁𝙲𝙴 - <a href=https://t.me/digitalhub04>ɴʜɪ ᴅᴜɴɢᴀ ʙsᴅᴋ 🤪</a>"""
 
 
 
@@ -292,17 +292,17 @@ Name - {}
 ©{message.chat.title}</b>
 """
 
-    CUSTOM_FILE_CAPTION = """<a href="https://t.me/The_Happy_Hour_Hindi"><b>{file_name}</b></a>
+    CUSTOM_FILE_CAPTION = """<a href="https://t.me/Digitalhub04"><b>{file_name}</b></a>
 
 ════════※ ·❆· ※════════
-<a href="https://t.me/Happy_Hour_Friends"><b>ㅤㅤ▫️Mᴏᴠɪᴇ Rᴇǫ Gʀᴏᴜᴘ▫️</b></a>
+<a href="https://t.me/digitalhubmirror"><b>ㅤㅤ▫️Mᴏᴠɪᴇ ki factory▫️</b></a>
 ════════※ ·❆· ※════════"""
 
     RESTART_TXT = """
 <b>Bᴏᴛ Rᴇsᴛᴀʀᴛᴇᴅ !
 📅 Dᴀᴛᴇ : <code>{}</code>
 ⏰Tɪᴍᴇ : <code>{}</code>
-🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code></b>"""
+🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Karachi</code></b>"""
 
     MELCOW_ENG = """<b>Hᴇʟʟᴏ {} 😍, Aɴᴅ Wᴇʟᴄᴏᴍᴇ Tᴏ {} Gʀᴏᴜᴘ ❤️
 
@@ -341,7 +341,7 @@ Merry Christmas ❄️ and Happy New Year 🎇</b>"""
 ʏᴏᴜʀ ᴀʀᴇ ɴᴏᴛ ᴠᴇʀɪғɪᴇᴅ ᴛᴏᴅᴀʏ,
 ᴘʟᴇᴀꜱᴇ ᴠᴇʀɪғʏ ɴᴏᴡ ᴀɴᴅ ɢᴇᴛ ᴜɴʟɪᴍɪᴛᴇᴅ ᴀᴄᴄᴇꜱꜱ ғᴏʀ ɴᴇxᴛ ᴠᴇʀɪғɪᴄᴀᴛɪᴏɴ...
 
-इस बाॅट को इस्तेमाल करने के लिए आपको ᴠᴇʀɪғʏ करना होगा नहीं तो आप इसका इस्तेमाल नहीं कर पाएंगे |</b>"""
+To use this bot you have to ᴠᴇʀɪғʏ otherwise you will not be able to use it |</b>"""
 
     VERIFY2_TXT = """
 <b>Vᴇʀɪғʏ Sᴛᴀᴛᴜꜱ
