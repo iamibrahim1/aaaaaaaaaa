@@ -452,7 +452,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 return
             elif settings['botpm']:
                 await query.answer(url=f"https://t.me/{temp.U_NAME}?start={ident}_{file_id}")
-                await query.answer('आपको मूवी की फाइल पर्सनल में भेजी है ।', show_alert=True)
+                await query.answer('Sent you the movie file in private ।', show_alert=True)
                 return
             else:
                 file_send=await client.send_cached_media(
@@ -493,7 +493,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             await query.answer(url=f"https://t.me/{temp.U_NAME}?start={ident}_{file_id}")
     elif query.data.startswith("checksub"):
         if AUTH_CHANNEL and not await is_subscribed(client, query):
-            await query.answer("हमे पता है तुम स्मार्ट हो 😬 But हम से स्मार्ट इस दुनिया में कोइ नई हैं।😎", show_alert=True)
+            await query.answer("We know you are smart 😬 But there is someone smarter than us in this world।😎", show_alert=True)
             return
         ident, file_id = query.data.split("#")
         files_ = await get_file_details(file_id)
@@ -585,7 +585,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('× ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘs ×', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ], [
             InlineKeyboardButton('🔍 sᴇᴀʀᴄʜ', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('ᴏᴡɴ ɪɴғᴏ', url='https://t.me/Mister_Ash')
+            InlineKeyboardButton('ᴏᴡɴer ɪɴғᴏ', url='https://t.me/lucifer6985')
         ], [
             InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about')
@@ -702,7 +702,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "source":
         buttons = [[
-            InlineKeyboardButton('ʀᴇᴘᴏ', url='https://github.com'),
+            InlineKeyboardButton('ʀᴇᴘᴏ', url='https://github.com/login'),
             InlineKeyboardButton('ʙᴀᴄᴋ', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -849,8 +849,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "deploy":
         buttons = [[
-           InlineKeyboardButton('ʀᴇᴘᴏ', url='https://t.me/The_Happy_Hour_Hindi'),
-           InlineKeyboardButton('ᴏᴡɴᴇʀ', url='https://t.me/Mister_Ash')
+           InlineKeyboardButton('Channel', url='https://t.me/digitalhub04'),
+           InlineKeyboardButton('ᴏᴡɴᴇʀ', url='https://t.me/lucifer6985')
         ], [
             InlineKeyboardButton('ʙᴀᴄᴋ', callback_data='aswin')
         ]]
@@ -961,7 +961,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             parse_mode=enums.ParseMode.HTML
         )
     elif query.data == "rfrsh":
-        await query.answer("👉 परेशान मत कर BSDK.....🤬")
+        await query.answer("👉 Do not disturb BSDK.....🤬")
         buttons = [[
             InlineKeyboardButton('ʙᴀᴄᴋ', callback_data='start'),
             InlineKeyboardButton('ʀᴇғʀᴇsʜ', callback_data='rfrsh')
